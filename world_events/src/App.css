@@ -1,0 +1,30 @@
+.AppName {
+    text-align: center;
+   
+    padding-top: 40px;
+    background-image: url(./BG.jpg);
+    height: 4000px;
+
+}
+.list select{
+    width:200px;
+    height: 30px;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.list button{
+    height: 30px;
+    margin-top: 0px;
+    width: 100px;
+    font-size: 20px;
+}
+.App h1{
+    margin-top: 100px;
+    height: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: whitesmoke;
+    opacity: 0.8;
+    width: 400px;
+    margin-left: 400px
+}
